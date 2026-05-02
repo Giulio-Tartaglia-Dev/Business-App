@@ -1,0 +1,16 @@
+{
+  "name": "Business Manager",
+  "short_name": "Business",
+  "description": "App per la gestione finanziaria",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135673.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
